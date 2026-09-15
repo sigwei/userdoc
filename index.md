@@ -4,7 +4,7 @@ group: navigation
 weight: 0
 ---
 
-# Willkommen zur OPUS 4 Dokumentation
+# Willkommen zur OPUS 4 Dokumentation xxxx
 
 Auf diesen Seiten finden Sie Informationen zu OPUS 4, der Anpassung, Konfiguration und dem Betrieb eines Repositoriums
 bzw. institutionellen Dokumentenservers.
